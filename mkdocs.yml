@@ -1,0 +1,79 @@
+site_name: Gender-War-CN-Wiki
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+nav:
+  - '简介':
+    - 'Getting Started': 'index.md'
+    - '关于本项目': 'intro/about.md'
+    - '如何参与贡献': 'intro/htc.md'
+    - '格式要求': 'intro/format.md'
+  - '事件年表':
+    - '总览': 'timeline/index.md'
+    - '2015-2017: 话语权的争夺': 'timeline/2015-2017.md'
+    - '2018: #MeToo浪潮与“米兔运动”元年': 'timeline/2018.md'
+    - '2019: “仙人跳”叙事与民族主义交汇': 'timeline/2019.md'
+    - '2020: “小作文”污名化与“反转”元年': 'timeline/2020.md'
+    - '2021: “拳塔一体”与商业化抵制': 'timeline/2021.md'
+    - '2022: 系统性暴力与公权力转向': 'timeline/2022.md'
+    - '2023: “诬告”恐惧与法律边界的再确认': 'timeline/2023.md'
+    - '2024: “捞女”叙事与文化战争': 'timeline/2024.md'
+    # - '外国事件 N号房 爱泼斯坦案'
+  - '版本系统':
+    - '总览': 'versions/index.md'
+    - '中国的版本迭代（三阶段框架）': 'versions/modernity.md'
+    - '日服': 'versions/japan.md'
+    - '韩服': 'versions/korea.md'
+    - '欧美服': 'versions/western.md'
+  - '词汇表':
+    - '总览': 'lexicon/index.md'
+    - '群体称谓':
+      - '对女性的称谓': 'lexicon/designations/female.md'
+      - '对男性的称谓': 'lexicon/designations/male.md'
+    - '核心概念与叙事框架': 'lexicon/core-concepts.md'
+    - '网络迷因与流行语': 'lexicon/memes.md'
+    - '黑话': 'lexicon/black-talk.md'
+  - '焦点事件':
+    - '总览': 'case-files/index.md'
+    - '性侵/性骚扰/诬告指控类案件': 'case-files/assault.md'
+    - '恶性社会案件与性别暴力': 'case-files/crime.md'
+    - '婚恋/情感/家庭伦理类案件': 'case-files/marriage.md'
+    - '公共空间与日常冲突': 'case-files/daily.md'
+    - '司法与公权力争议': 'case-files/public-power.md'
+    - '民族主义相关': 'case-files/nationalism.md'
+  - '思潮与叙事':
+    - '总览': 'ideologies/index.md'
+    - '女权主义相关流派': 'ideologies/feminism.md'
+    - '男性主义相关流派': 'ideologies/masculinism.md'
+    - '核心冲突理论': 'ideologies/core-conflict-theories.md'
+    # - '去责任化理论'
+    # - '男性原罪论'
+    - '龟男-黄毛-老实人模型': 'ideologies/ghl-model.md'
+    # - '父权制'
+    # - '独立女性'
+    # - '原生家庭论'
+    # - '捞学'
+    # - '泡学'
+    # - '性压抑'
+  - '社群与舆论阵地':
+    - '总览': 'communities/index.md'
+    - '豆瓣': 'communities/douban.md'
+    - '知乎': 'communities/zhihu.md'
+    - '微博': 'communities/weibo.md'
+    - '小红书': 'communities/xiaohongshu.md'
+    - '抖音': 'communities/douyin.md'
+    - 'Bilibili': 'communities/bilibili.md'
+  - '人物':
+    - '总览': 'people/index.md'
+  - '社会批判':
+    - '总览': 'critique/index.md'
+  - '亲密关系':
+    - '总览': 'relationships/index.md'
+  - '新战场观察(beta)':
+    - '总览': 'battlegrounds/index.md'
+    - '消费与商业': 'battlegrounds/consumption-and-commerce.md'
+    - '游戏与亚文化': 'battlegrounds/gaming-and-subculture.md'
+    - '影视与文娱': 'battlegrounds/film-and-entertainment.md'
+
